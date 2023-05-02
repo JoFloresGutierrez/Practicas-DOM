@@ -1,0 +1,32 @@
+table {
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+    border: double black;
+    background-color:rgba(44, 36, 24, 0.82);
+}
+
+header {
+    text-align: center;
+}
+
+#cadena {
+    border-style: inset;
+    background-color: aliceblue;
+}
+
+#boton {
+    border-radius: 5px;
+    background-color: burlywood;
+    background-color: rgb(255, 243, 107);
+}
+
+#boton1 {
+    border-radius: 5px;
+    background-color: burlywood;
+    background-color: rgb(255, 243, 107);
+}
+
+body {
+    background-color: antiquewhite;
+}
